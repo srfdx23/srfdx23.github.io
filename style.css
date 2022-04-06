@@ -28,10 +28,11 @@ body {
 
 .menu-op:hover {
     margin: 5px;
-    padding: 10px;
+    padding: 8px;
     text-decoration: none;
     color: #fff;
     font-weight: bold;
+    border: 2px solid #fff;
 }
 
 .about {
